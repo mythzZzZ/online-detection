@@ -1,0 +1,1 @@
+An online detection platform based on Django, input an image and return the detected result. The model uses mmdeploy's python sdk deployment mode. The front-end uploads images and the background returns detection results.
